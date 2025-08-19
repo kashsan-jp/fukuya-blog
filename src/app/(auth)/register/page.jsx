@@ -15,7 +15,7 @@ export default function Register() {
 
   return (
     <div className='container lg:w-1/2 sm: min-width:90%'>
-        <h1 className='title'>登録する</h1>
+        <h1 className='title'>ブログに登録する</h1>
 
         <form action={action} className='space-y-4'>
           <div>
