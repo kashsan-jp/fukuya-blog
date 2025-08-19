@@ -26,9 +26,9 @@ export default function PostCard({post}) {
         </Link>
         <p className="text-sm break-words whitespace-pre-wrap">{post.content}</p>
     </div>
-    <Link href="/">
+    {/* <Link href="/">
       <div className="text-center text-orange-700 mt-3">戻る</div>
-    </Link>
+    </Link> */}
     </>
   )
 }
