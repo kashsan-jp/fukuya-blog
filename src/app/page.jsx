@@ -33,6 +33,11 @@ export default async function Home() {
             className="mx-auto mb-10"
           />
       </div>
+      <div className="text-center rounded mb-5 m-auto border border-red-800 text-white bg-red-800 w-60">
+        <a href="https://www.k-ash.com/fukuya" target="_blank">
+        福屋のホームページはこちら
+        </a>
+      </div>
       <div className="grid lg:grid-cols-2 sm:grid-cols-1 gap-6 w-full">
         {
           posts.map((post) => (
