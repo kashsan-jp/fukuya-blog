@@ -53,7 +53,7 @@ export default function Register() {
             <button 
               className='btn-primary'
               disabled={isPending}>
-              { isPending ? "Loading..." : "Register"}
+              { isPending ? "Loading..." : "登録する"}
               </button>
             {/* <Link href="/login" className='text-link'> or login here</Link> */}
           </div>

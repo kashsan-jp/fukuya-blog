@@ -37,7 +37,7 @@ export default function BlogForm({handler, post}) {
         </div>
 
         <button disabled={isPending} className='btn-primary'>
-         {isPending ? "Loading..." : "Submit"}
+         {isPending ? "Loading..." : "投稿する"}
         </button>
 
     </form>

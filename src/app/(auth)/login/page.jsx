@@ -42,10 +42,10 @@ export default function Login() {
             <button 
               className='btn-primary'
               disabled={isPending}>
-              { isPending ? "Loading..." : "Login"}
+              { isPending ? "Loading..." : "ログイン"}
               </button>
-            <Link href="/register" className='text-link'> 
-            or 登録</Link>
+            {/* <Link href="/register" className='text-link'> 
+            or 登録</Link> */}
           </div>
         </form>
     </div>
