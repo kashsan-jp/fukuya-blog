@@ -15,7 +15,11 @@ export default function Register() {
 
   return (
     <div className='container lg:w-1/2 sm: min-width:90%'>
-        <h1 className='title'>ブログに登録する</h1>
+        <h1 className='title'>ブログメンバーに登録する</h1>
+        <p className='text-red-800 mb-5'>
+        ブログメンバーに登録していただくとあなたの記事を<br></br>
+        投稿できるようになります📝
+        </p>
 
         <form action={action} className='space-y-4'>
           <div>

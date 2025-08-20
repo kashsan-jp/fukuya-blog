@@ -38,6 +38,18 @@ export default async function Home() {
         福屋のホームページはこちら
         </a>
       </div>
+      <div className="m-auto w-full mb-10 bg-white p-5 text-slate-600 rounded">
+        <h1 className="mb-5 bold text-black">毎度ありがとうございます☺️</h1>
+        <p className="text-base text-slate-600 e">
+          この度店主が体調不良のため、
+          当分の間、店舗営業はおやすみさせていただきます。
+
+          なおご注文は上記の福屋のHPからお受けさせていたたくことができますので、宜しくお願い致します。
+          なおブログ登録していただいた皆様には特別にご注文連絡先をお知らせ致します。
+
+          今後の詳細はこのブログ上でお知らせいたします。
+        </p>
+      </div>
       <div className="grid lg:grid-cols-2 sm:grid-cols-1 gap-6 w-full">
         {
           posts.map((post) => (
