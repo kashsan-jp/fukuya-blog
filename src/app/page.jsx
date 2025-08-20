@@ -39,8 +39,8 @@ export default async function Home() {
         </a>
       </div>
       <div className="m-auto w-full mb-10 bg-white p-5 text-slate-600 rounded">
-        <h1 className="mb-5 bold text-black">毎度ありがとうございます☺️</h1>
-        <p className="text-base text-slate-600 e">
+        <h1 className="mb-5 font-semibold text-xl">毎度ありがとうございます☺️</h1>
+        <p className="break-words text-base text-slate-800">
           この度店主が体調不良のため、
           当分の間、店舗営業はおやすみさせていただきます。
 
