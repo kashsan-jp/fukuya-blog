@@ -27,7 +27,7 @@ export default async function Home() {
         <p className="text-center">スマホ専用</p>
         <Image
             priority
-            src="/QR_nextjs_blog.png" //配置した画像のパスを記述する。
+            src="/fukuya_qrcode.png" //配置した画像のパスを記述する。
             alt="smart-phone-site"
             width={100}
             height={100}
