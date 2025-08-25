@@ -26,6 +26,7 @@ export default async function Home() {
       <div className="hidden sm:block">
         <p className="text-center">スマホ専用</p>
         <Image
+            priority
             src="/QR_nextjs_blog.png" //配置した画像のパスを記述する。
             alt="smart-phone-site"
             width={100}
@@ -44,11 +45,16 @@ export default async function Home() {
           この度店主が体調不良のため、
           当分の間、店舗営業はおやすみさせていただきます。
           <br></br>
-          なおご注文は上記の福屋のHPからお受けさせていたたくことができますので、宜しくお願い致します。
+          なおご注文は上記の福屋のHPからお受けさせていでたたくことができますので、宜しくお願い致します。
           なおブログ登録していただいた皆様には特別にご注文連絡先をお知らせ致します。
           <br></br>
           今後の詳細はこのブログ上でお知らせいたします。
         </p>
+      </div>
+      <div className="mx-auto text-center bg-red-800 text-white mb-10 w-2/4 border border-red-800 rounded">
+        <a href="mailto:wagashi_fukuya@yahoo.co.jp">
+          ✉️メールで連絡する
+        </a>
       </div>
       <div className="text-center rounded mb-5 m-auto border border-green-800 text-white bg-green-800 w-60">
         ブログ
