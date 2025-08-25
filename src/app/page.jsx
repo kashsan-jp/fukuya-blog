@@ -51,7 +51,7 @@ export default async function Home() {
           今後の詳細はこのブログ上でお知らせいたします。
         </p>
       </div>
-      <div className="mx-auto text-center bg-red-800 text-white mb-10 w-2/4 border border-red-800 rounded">
+      <div className="mx-auto text-center bg-red-800 text-white mb-10 w-3/4 border border-red-800 rounded">
         <a href="mailto:wagashi_fukuya@yahoo.co.jp">
           ✉️福屋へメールで連絡する
         </a>
