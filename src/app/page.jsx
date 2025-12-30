@@ -42,16 +42,14 @@ export default async function Home() {
       <div className="m-auto w-full mb-10 bg-white p-5 text-slate-600 rounded">
         <h1 className="mb-5 font-semibold text-xl">毎度ありがとうございます☺️</h1>
         <p className="break-words text-base text-slate-800">
-          この度店主が体調不良のため、
-          当分の間、店舗営業はおやすみさせていただきます。
-          <br></br>
-          なおご注文は上記の福屋のHPからお受けさせていでたたくことができますので、宜しくお願い致します。
-          なおブログ登録していただいた皆様には特別にご注文連絡先をお知らせ致します。
-          <br></br>
-          今後の詳細はこのブログ上でお知らせいたします。
+          営業を再開しました。<br></br>
+          12月30日から営業を再開致しました。<br></br>
+          年末年始は1月1日から1月3日までお休みを頂きます。<br></br>
+          来年もどうぞよろしくお願い致します。<br></br>
+          手作り和菓子 福屋 店主
         </p>
       </div>
-      <div className="mx-auto text-center bg-red-800 text-white mb-10 w-3/4 border border-red-800 rounded">
+      <div className="mx-auto text-center bg-red-800 text-white mb-10 sm:w-1/6 lg:w-1/4 border border-red-800 rounded">
         <a href="mailto:wagashi_fukuya@yahoo.co.jp">
           福屋へメール✉️で連絡する
         </a>
