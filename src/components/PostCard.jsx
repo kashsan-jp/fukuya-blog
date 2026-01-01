@@ -15,7 +15,7 @@ export default function PostCard({post}) {
                 month: "long",
                 day: "numeric",
                 hour: "numeric",
-                hour12: false,
+                minute: "numeric",
               }
             )}
         </p>
