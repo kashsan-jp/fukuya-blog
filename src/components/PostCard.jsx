@@ -10,6 +10,7 @@ export default function PostCard({post}) {
         <p className="text-slate-600 text-xs">
             {post._id.getTimestamp().toLocaleString(
               "ja-JP", {
+                timeZone: "Asia/Tokyo",
                 year: "numeric",
                 month: "long",
                 day: "numeric",
