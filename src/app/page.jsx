@@ -39,13 +39,18 @@ export default async function Home() {
         福屋のホームページはこちら➡️
         </a>
       </div>
-      <div className="m-auto w-full mb-10 bg-white p-5 text-slate-600 rounded">
+      <div className="text-center m-auto 2xl:w-1/2 w-full mb-10 bg-white p-5 text-slate-600 rounded">
         <h1 className="mb-5 font-semibold text-xl">毎度ありがとうございます☺️</h1>
         <p className="break-words text-base text-slate-800">
-          営業を再開しました。<br></br>
+
+          {/* 営業を再開しました。<br></br>
           12月30日から営業を再開致しました。<br></br>
           年末年始は1月1日から1月3日までお休みを頂きます。<br></br>
-          来年もどうぞよろしくお願い致します。<br></br>
+          来年もどうぞよろしくお願い致します。<br></br> */}
+
+          明けましておめでとうございます㊗️<br></br>
+          今年も御菓子司福屋を<br></br>どうぞよろしくお願い致します<br></br>
+          <br></br>
           手作り和菓子 福屋 店主
         </p>
       </div>
