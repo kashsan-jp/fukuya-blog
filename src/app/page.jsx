@@ -39,7 +39,7 @@ export default async function Home() {
         福屋のホームページはこちら➡️
         </a>
       </div>
-      <div className="text-center m-auto 2xl:w-1/2 w-full mb-10 bg-white p-5 text-slate-600 rounded">
+      <div className="text-center m-auto xl:w-1/2 w-full mb-10 bg-white p-5 text-slate-600 rounded">
         <h1 className="mb-5 font-semibold text-xl">毎度ありがとうございます☺️</h1>
         <p className="break-words text-base text-slate-800">
 
