@@ -54,7 +54,7 @@ export default async function Home() {
           <br></br> */}
 
           この福屋ブログはアプリとして<br></br>使えるようになりました📱<br></br>
-          ご利用ください<br></br><br></br>
+          どうぞご利用くださいませ<br></br><br></br>
           iPhoneの方は → 共有 → <br></br>ホーム画面に追加<br></br><br></br>
           Androidoの方は → メニュー → <br></br>ホーム画面に追加 → インストール<br></br><br></br>
 
