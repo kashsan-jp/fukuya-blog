@@ -40,7 +40,8 @@ export default async function Home() {
         </a>
       </div>
       <div className="text-center m-auto xl:w-1/2 w-full mb-10 bg-white p-5 text-slate-600 rounded">
-        <h1 className="mb-5 font-semibold text-xl">毎度ありがとうございます☺️</h1>
+        <h1 className="mb-5 font-semibold text-xl">お知らせ 📺</h1>
+        
         <p className="break-words text-base text-slate-800">
 
           {/* 営業を再開しました。<br></br>
@@ -48,9 +49,15 @@ export default async function Home() {
           年末年始は1月1日から1月3日までお休みを頂きます。<br></br>
           来年もどうぞよろしくお願い致します。<br></br> */}
 
-          明けましておめでとうございます㊗️<br></br>
+          {/* 明けましておめでとうございます㊗️<br></br>
           今年も御菓子司福屋を<br></br>どうぞよろしくお願い致します<br></br>
-          <br></br>
+          <br></br> */}
+
+          この福屋ブログはアプリとして<br></br>使えるようになりました📱<br></br>
+          ご利用ください<br></br><br></br>
+          iPhoneの方は → 共有 → <br></br>ホーム画面に追加<br></br><br></br>
+          Androidoの方は → メニュー → <br></br>ホーム画面に追加<br></br><br></br>
+
           手作り和菓子 福屋 店主
         </p>
       </div>
