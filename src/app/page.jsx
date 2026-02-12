@@ -64,7 +64,7 @@ export default async function Home() {
           一人で何役もこなすのは大変ですが<br></br>頑張って参ります💪
           <br></br>
           <br></br>
-          手作り和菓子 福屋 店主
+          <span class="font-bold">手作り和菓子🍡 福屋 店主</span>
         </p>
       </div>
       <div className="mx-auto text-center bg-red-800 text-white mb-10 sm:w-1/6 lg:w-1/4 border border-red-800 rounded">
