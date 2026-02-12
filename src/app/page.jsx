@@ -63,6 +63,7 @@ export default async function Home() {
           現在、製造、販売、経理部門のオペレーションをDX構築中です。<br></br>
           一人で何役もこなすのは大変ですが頑張って参ります💪
           <br></br>
+          <br></br>
           手作り和菓子 福屋 店主
         </p>
       </div>
