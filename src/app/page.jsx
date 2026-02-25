@@ -58,13 +58,22 @@ export default async function Home() {
           iPhoneの方は → 共有 → <br></br>ホーム画面に追加<br></br><br></br>
           Androidoの方は → メニュー → <br></br>ホーム画面に追加 → インストール<br></br><br></br> */}
           
-          ワンオペで経営しておりますので、<br></br>
+          {/* ワンオペで経営しておりますので、<br></br>
           お客様にはご不便をおかけする事もございますが、
           現在、製造、販売、経理部門のオペレーションをDX構築中です。<br></br>
-          一人で何役もこなすのは大変ですが<br></br>頑張って参ります💪
+          一人で何役もこなすのは大変ですが<br></br>頑張って参ります💪 */}
+
+          {/* しばらくの間お休みさせていただきます<br></br>
+          前店主の体調不良のため、<br></br>暫くの間お休みさせていただきます。<br></br>
           <br></br>
+          ご注文はお受けしておりますので、<br></br>本ページのお問い合わせフォーム<br></br>
+          又はお電話にてご連絡ください。<br></br>
+          ご迷惑をお掛けしますが、<br></br>何卒よろしくお願いいたします。<br></br> */}
+          
+          只今３月の新製品を開発中です📖<br></br>
+          
           <br></br>
-          <span class="font-bold">手作り和菓子🍡 福屋 店主</span>
+          <span className="font-bold">手作り和菓子🍡 福屋 店主</span>
         </p>
       </div>
       <div className="mx-auto text-center bg-red-800 text-white mb-10 sm:w-1/6 lg:w-1/4 border border-red-800 rounded">
