@@ -5,7 +5,7 @@ export default function PostCard({post}) {
   return (
     <>
     <div className="border border-slate-400 
-        border-dashed p-4 rounded-md h-full bg-white">
+        border-dashed p-4 rounded-md h-full bg-white md:w-full">
 
         <p className="text-slate-600 text-xs">
             {post._id.getTimestamp().toLocaleString(
