@@ -91,9 +91,9 @@ export default async function Home() {
           {/* おかげさまで「桜きんつば」は<br></br>完売いたしました❗️<br></br>
           新作のきんつばをご期待ください🌸<br></br> */}
 
-          初夏の新作発売中！<br></br><br></br>
+          秋の新作発売中！<br></br><br></br>
           🍊柚子の月<br></br>
-          葛桜
+          月見だんご
 
           
           <br></br>
