@@ -93,7 +93,7 @@ export default async function Home() {
 
           秋の新作発売中！<br></br><br></br>
           🍊柚子の月<br></br>
-          月見だんご
+          🌕月見だんご
 
           
           <br></br>
